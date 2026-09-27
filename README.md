@@ -12,7 +12,7 @@ The dashboard gives HR/management a single view to answer:
 
 ## 🗂️ Data Source
 
-- File: `HR_Analytics-4.csv`
+- File: `HR_Analysis.csv`
 - ~1,480 employee records, 37 columns
 
 Key columns used in this dashboard:
@@ -89,5 +89,5 @@ Key columns used in this dashboard:
 
 ## 📁 Files
 
-- `HR_Analytics-4.csv` – raw dataset
-- `HR_Analytics_DASHBOARD.pbix` – Power BI dashboard file
+- `HR_Analysis.csv` – raw dataset
+- `HR_Analysis_DASHBOARD.pbix` – Power BI dashboard file
